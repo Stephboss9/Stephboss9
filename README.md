@@ -15,7 +15,7 @@ I'm currently on my college winter break and working on:
 * Very active (gym, sports, running)
 
 ## Contact
-* You contact me at my LinkedIn https://www.linkedin.com/in/stephaneyannickmbenga/
+* You contact me at my [LinkedIn](https://www.linkedin.com/in/stephaneyannickmbenga/)
 <!--
 **Stephboss9/Stephboss9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
