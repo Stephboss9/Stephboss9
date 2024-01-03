@@ -2,19 +2,19 @@
 I'm a 21 y/o passionate about full stack software development who has fun building beautiful and functional web experiences🧑🏾‍💻.
 I'm also a senior computer science major and math minor at the University of Maryland, College Park 🏫
 
-## Current endeavors
+ ## 👨🏾‍💻 Current endeavors
 I'm currently on my college winter break and working on:
 * Technical interview preparation: Reviewing my data structures & algorithms and practing programming challenges through LeetCode
 * Planning/building a new side project to learn new web technologies, master my skillset, and have fun 👷🏾‍♂️👷🏾
 * Using all my accumulated knowledge and skills to fix and refactor some of my old projects 😂
 * Mastering and understanding JavaScript on a deep level 
 
-## Some Fun Facts
+## 🎉 Some Fun Facts
 * I'm a roller skater! 🛼
 * Born in Senegal, a country in West Africa
 * Very active (gym, sports, running)
 
-## Contact
+## 📱 Contact
 * You contact me at my [LinkedIn](https://www.linkedin.com/in/stephaneyannickmbenga/)
 <!--
 **Stephboss9/Stephboss9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
