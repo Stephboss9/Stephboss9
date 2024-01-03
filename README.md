@@ -1,5 +1,5 @@
 ### Welcome everybody, I'm Stephane 👋
-I'm a 21 y/o passionate about full stack software development who has fun building beautiful and functional web experiences🧑🏾‍💻
+I'm a 21 y/o passionate about full stack software development who has fun building beautiful and functional web experiences🧑🏾‍💻.
 I'm also a senior computer science major and math minor at the University of Maryland, College Park 🏫
 
 ## Current endeavors
