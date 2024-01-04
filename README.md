@@ -5,7 +5,7 @@ I'm also a senior computer science major and math minor at the University of Mar
  ## 👨🏾‍💻 Current endeavors
 I'm currently on my college winter break and working on:
 * Technical interview preparation: Reviewing my data structures & algorithms and practing programming challenges through LeetCode
-* Planning/building a new side project to learn new web technologies, master my skillset, and have fun 👷🏾‍♂️👷🏾
+* Planning/building a new side project to learn new web technologies, master my skillset, and have fun 👷🏾‍♂️👷🏾 (still in the planning phase)
 * Using all my accumulated knowledge and skills to fix and refactor some of my old projects 😂
 * Mastering and understanding JavaScript on a deep level 
 
