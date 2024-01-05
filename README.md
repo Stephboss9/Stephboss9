@@ -10,7 +10,7 @@ I'm currently on my college winter break and working on:
 * Mastering and understanding JavaScript on a deep level 
 
 ## 🎉 Some Fun Facts
-* I'm a roller skater! 🛼
+* I'm a roller skater! ⛸ (couldn't find a roller skate emoji so used this)
 * Born in Senegal, a country in West Africa
 * Very active (gym, sports, running)
 
