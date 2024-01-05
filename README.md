@@ -11,8 +11,8 @@ I'm currently on my college winter break and working on:
 
 ## 🎉 Some Fun Facts
 * I'm a roller skater! ⛸ (couldn't find a roller skate emoji so used this 😞)
-* Born in Senegal, a country in West Africa
-* Very active (gym, sports, running)
+* Born in Senegal, a country in West Africa 
+* Very active (gym, sports, running) 🏋🏽‍♂️
 
 ## 📱 Contact
 * You contact me at my [LinkedIn](https://www.linkedin.com/in/stephaneyannickmbenga/)
