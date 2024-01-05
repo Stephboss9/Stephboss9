@@ -1,17 +1,16 @@
 ### Welcome everybody, I'm Stephane 👋
 I'm a 21 y/o passionate about full stack software development who has fun building beautiful and functional web experiences🧑🏾‍💻.
-I'm also a senior computer science major and math minor at the University of Maryland, College Park 🏫
-Also I like money.
+I'm also a senior computer science major and math minor at the University of Maryland, College Park.
 
  ## 👨🏾‍💻 Current endeavors
 I'm currently on my college winter break and working on:
-* Technical interview preparation: Reviewing my data structures & algorithms and practing programming challenges through LeetCode
-* Planning/building a new side project to learn new web technologies, master my skillset, and have fun 👷🏾‍♂️👷🏾 (still in the planning phase)
+* Technical interview preparation: Reviewing my data structures & algorithms and practicing programming challenges through LeetCode
+* Planning/building a new side project to learn new web technologies, master my skillset, and have fun (still in the planning phase)
 * Using all my accumulated knowledge and skills to fix and refactor some of my old projects 😂
 * Mastering and understanding JavaScript on a deep level 
 
 ## 🎉 Some Fun Facts
-* I'm a roller skater! ⛸ (couldn't find a roller skate emoji so used this 😞)
+* I'm a roller skater! Let me know if you want to go together.
 * Born in Senegal, a country in West Africa 
 * Very active (gym, sports, running) 🏋🏽‍♂️
 
