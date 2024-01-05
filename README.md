@@ -16,6 +16,7 @@ I'm currently on my college winter break and working on:
 
 ## 📱 Contact
 * You contact me at my [LinkedIn](https://www.linkedin.com/in/stephaneyannickmbenga/)
+* Check out my Instagram: [Instagram](ttps://www.instagram.com/stephane.codes?igsh=MXBiZzlwYTc3b2Y2YQ%3D%3D&utm_source=qr)
 <!--
 **Stephboss9/Stephboss9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
