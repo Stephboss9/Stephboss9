@@ -1,9 +1,10 @@
 ### Welcome everybody, I'm Stephane 👋
-I'm a 21 y/o passionate about full stack software development who has fun building beautiful and functional web experiences.
-I'm also a senior computer science major and math minor at the University of Maryland, College Park.
+I'm 21 y/o and passionate about full-stack web development with more of a focus on the front end. 
+I take pride in building functional and visually appealing web experiences.
+Currently pursuing a Bachelors degree in computer science and a math minor at the Universty of Maryland, College Park.
 
  ## 👨🏾‍💻 Current endeavors
-I'm currently on my college winter break and working on:
+This is what I'm working on at the moment during my college winter break:
 * Technical interview preparation: Reviewing my data structures & algorithms and practicing programming challenges through LeetCode
 * Planning/building a new side project to learn new web technologies, master my skillset, and have fun (still in the planning phase)
 * Using all my accumulated knowledge and skills to fix and refactor some of my old projects 😂
@@ -12,7 +13,8 @@ I'm currently on my college winter break and working on:
 ## 🎉 Some Fun Facts
 * I'm a roller skater! Let me know if you want to go together.
 * Born in Senegal, a country in West Africa 
-* Very active (gym, sports, running) 🏋🏽‍♂️
+* Very active (gym, basketball) 🏋🏽‍♂️
+* My fastest mile time was 5:20 in my freshman year of high school
 
 ## 📱 Contact
 * You contact me at my [LinkedIn](https://www.linkedin.com/in/stephaneyannickmbenga/)
