@@ -7,8 +7,18 @@ Currently pursuing a Bachelors degree in computer science and a math minor at th
 This is what I'm working on at the moment during my college winter break:
 * Technical interview preparation: Reviewing my data structures & algorithms and practicing programming challenges through LeetCode
 * Planning/building a new side project to learn new web technologies, master my skillset, and have fun (still in the planning phase)
-* Using all my accumulated knowledge and skills to fix and refactor some of my old projects 😂
-* Mastering and understanding JavaScript on a deep level 
+* Using all my accumulated knowledge and skills to fix and refactor some of my old projects 
+* Mastering and understanding JavaScript on a deep level
+
+## 🛠 Tech Stack
+
+**Frontend Development:** `React` `TypeScript` `Chakra-UI` `Styled Components`
+ 
+**Version Control:** `Git` `GitLab` 
+
+**Backend Development:** `PostgreSQL` `Express` `Node`
+
+**Testing:** `Vitest` `Insomnia` 
 
 ## 🎉 Some Fun Facts
 * I'm a roller skater! Let me know if you want to go together.
