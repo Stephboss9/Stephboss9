@@ -12,7 +12,7 @@ This is what I'm working on at the moment during my college winter break:
 
 ## 🛠 Tech Stack
 
-**Frontend Development:** `React` `TypeScript` `Chakra-UI` `Styled Components`
+**Frontend Development:** `React` `TypeScript/JavaScript` `Chakra-UI` `Styled Components`
  
 **Version Control:** `Git` `GitLab` 
 
