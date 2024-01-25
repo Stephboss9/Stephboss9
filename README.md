@@ -4,11 +4,9 @@ I take pride in building functional and visually appealing web experiences.
 Currently pursuing a Bachelors degree in computer science and a math minor at the Universty of Maryland, College Park.
 
  ## 👨🏾‍💻 Current endeavors
-This is what I'm working on at the moment during my college winter break:
+This is what I'm working on
 * Technical interview preparation: Reviewing my data structures & algorithms and practicing programming challenges through LeetCode
-* Planning/building a new side project to learn new web technologies, master my skillset, and have fun (still in the planning phase)
-* Using all my accumulated knowledge and skills to fix and refactor some of my old projects 
-* Mastering and understanding JavaScript on a deep level
+* Rebuilding one of my projects (Flixster: movie web app) with current technologies to refresh on, and learn new technologies/libraries. 
 
 ## 🛠 Tech Stack
 
