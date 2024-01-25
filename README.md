@@ -3,10 +3,12 @@ I'm 21 y/o and passionate about full-stack web development with more of a focus 
 I take pride in building functional and visually appealing web experiences.
 I am pursuing a bachelor's degree in computer science and a math minor at the Universty of Maryland, College Park.
 
+
  ## 👨🏾‍💻 Current endeavors
 This is what I'm working on
 * Technical interview preparation: Reviewing my data structures & algorithms and practicing programming challenges through LeetCode
 * Rebuilding one of my projects (Flixster: movie web app) with current technologies to refresh on, and learn new technologies/libraries. 
+*  ### Seeking 2024 Full Stack/Frontend Web Development Internships!
 
 ## 🛠 Tech Stack
 
@@ -28,8 +30,6 @@ This is what I'm working on
 ## 📱 Contact
 * You contact me at my [LinkedIn](https://www.linkedin.com/in/stephaneyannickmbenga/)
 * Check out my Instagram: [Instagram](https://www.instagram.com/stephane.codes?igsh=MXBiZzlwYTc3b2Y2YQ%3D%3D&utm_source=qr)
-
- ### Seeking 2024 SWE Internships in Full Stack Web Dev
 
 <!--
 **Stephboss9/Stephboss9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
