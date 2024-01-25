@@ -1,7 +1,7 @@
 ### Welcome everybody, I'm Stephane 👋
 I'm 21 y/o and passionate about full-stack web development with more of a focus on the front end. 
 I take pride in building functional and visually appealing web experiences.
-Currently pursuing a Bachelors degree in computer science and a math minor at the Universty of Maryland, College Park.
+I am pursuing a bachelor's degree in computer science and a math minor at the Universty of Maryland, College Park.
 
  ## 👨🏾‍💻 Current endeavors
 This is what I'm working on
@@ -18,6 +18,7 @@ This is what I'm working on
 
 **Testing:** `Vitest` `Insomnia` 
 
+
 ## 🎉 Some Fun Facts
 * I'm a roller skater! Let me know if you want to go together.
 * Born in Senegal, a country in West Africa 
@@ -27,8 +28,13 @@ This is what I'm working on
 ## 📱 Contact
 * You contact me at my [LinkedIn](https://www.linkedin.com/in/stephaneyannickmbenga/)
 * Check out my Instagram: [Instagram](https://www.instagram.com/stephane.codes?igsh=MXBiZzlwYTc3b2Y2YQ%3D%3D&utm_source=qr)
+
+ ### Seeking 2024 SWE Internships in Full Stack Web Dev
+
 <!--
 **Stephboss9/Stephboss9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Seeking 2024 SWE Internships in Full Stack Web Dev
 
 Here are some ideas to get you started:
 
