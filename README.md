@@ -18,7 +18,7 @@ This is what I'm working on
 
 **Backend Development:** `PostgreSQL` `Express` `Node`
 
-**Testing:** `Vitest``React Testing Library` Insomnia` 
+**Testing:** `Vitest` `React-Testing-Library` `Insomnia` 
 
 
 ## 🎉 Some Fun Facts
