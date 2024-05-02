@@ -8,7 +8,7 @@ I am pursuing a bachelor's degree in computer science and a math minor at the Un
 This is what I'm working on
 * Technical interview preparation: Reviewing my data structures & algorithms and practicing programming challenges through LeetCode
 * Rebuilding one of my projects (Flixster: movie web app) with current technologies to refresh on, and learn new technologies/libraries. 
-*  ### Seeking 2024 Full Stack/Frontend Web Development Internships!
+*  ### Seeking 2024 Full Stack/Frontend opportunities
 
 ## 🛠 Tech Stack
 
