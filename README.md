@@ -21,9 +21,9 @@ This is what I'm working on
 
 
 ## 🎉 Some Fun Facts
-* I'm a roller skater! Let me know if you want to go together.
+* I Like to roller skate
 * Born in Senegal, a country in West Africa 
-* Very active (gym, basketball) 🏋🏽‍♂️
+* Very active (gym, basketball, soccer) 🏋🏽‍♂️
 * My fastest mile time was 5:20 in my freshman year of high school
 
 ## 📱 Contact
