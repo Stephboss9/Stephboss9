@@ -6,9 +6,9 @@ I am pursuing a bachelor's degree in computer science and a math minor at the Un
 
  ## 👨🏾‍💻 Current endeavors
 This is what I'm working on
-*  Creating a new portfolio website. 
-*  ### Seeking 2024 Full Stack/Frontend opportunities
-
+* Working on side projects
+* Applying/preparing for jobs/internships
+* 
 ## 🛠 Tech Stack
 
 **Frontend Development:** `React` `TypeScript/JavaScript` `Chakra-UI` `Styled Components`
