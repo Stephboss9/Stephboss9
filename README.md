@@ -4,8 +4,7 @@ I take pride in building functional and visually appealing web experiences.
 I am pursuing a bachelor's degree in computer science and a math minor at the Universty of Maryland, College Park.
 
 ## Portfolio:
-https://stephboss9.github.io/Stephanes-Portfolio-Website/
-
+https://stephanes-portfolio-website.vercel.app/
 
  ## 👨🏾‍💻 Current endeavors
 This is what I'm working on
