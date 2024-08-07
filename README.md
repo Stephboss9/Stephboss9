@@ -1,5 +1,5 @@
 ### Welcome everybody, I'm Stephane 👋
-I'm 21 y/o and passionate about full-stack web development with more of a focus on the front end. 
+I'm 22 y/o and passionate about full-stack web development with more of a focus on the front end. 
 I take pride in building functional and visually appealing web experiences.
 I am pursuing a bachelor's degree in computer science and a math minor at the Universty of Maryland, College Park.
 
