@@ -1,7 +1,7 @@
 ### Welcome everybody, I'm Stephane 👋
-I'm 22 y/o and passionate about full-stack web development with more of a focus on the front end. 
-I take pride in building functional and visually appealing web experiences.
-I am pursuing a bachelor's degree in computer science and a math minor at the Universty of Maryland, College Park.
+I'm 22 y/o and passionate about full-stack web development.
+I take pride in building functional, accessible, and visually appealing web experiences.
+I've recently graduated from the University of Maryland, College Park with a bachelor's in computer science and a minor in math.
 
 ## Portfolio:
 https://stephanes-portfolio-website.vercel.app/
@@ -21,11 +21,13 @@ This is what I'm working on
 
 **Testing:** `Vitest` `React-Testing-Library` `Insomnia` 
 
+**Other:** `Java`, `Python`
+
 
 ## 🎉 Some Fun Facts
-* I Like to roller skate
+* I Like to roller-skate
 * Born in Senegal, a country in West Africa 
-* Very active (gym, basketball, soccer) 🏋🏽‍♂️
+* C++ is the first programming language I learned.
 * My fastest mile time was 5:20 in my freshman year of high school
 
 ## 📱 Contact
