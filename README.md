@@ -10,7 +10,7 @@ https://stephanes-portfolio-website.vercel.app/
 This is what I'm working on
 * Working on side projects
 * Applying/preparing for jobs/internships
-* 
+* Learning Tailwind CSS and grinding LeetCode
 ## 🛠 Tech Stack
 
 **Frontend Development:** `React` `TypeScript/JavaScript` `Chakra-UI` `Styled Components`
